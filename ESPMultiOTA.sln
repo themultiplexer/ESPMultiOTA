@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPMultiOTA", "ESPMultiOTA\ESPMultiOTA.csproj", "{600FD00D-5A30-4802-B7F5-90CC2B3E433F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600FD00D-5A30-4802-B7F5-90CC2B3E433F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600FD00D-5A30-4802-B7F5-90CC2B3E433F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600FD00D-5A30-4802-B7F5-90CC2B3E433F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600FD00D-5A30-4802-B7F5-90CC2B3E433F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496C0271-C364-4620-8457-981FFD1DD5A5}
+	EndGlobalSection
+EndGlobal
